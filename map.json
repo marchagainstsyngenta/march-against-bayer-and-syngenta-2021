@@ -939,30 +939,12 @@
          "tilewidth":32
         }, 
         {
-         "columns":6,
          "firstgid":321,
-         "image":"..\/..\/Users\/Dominic\/Downloads\/Signet_Biene_Schrift_rund-200x197.png",
-         "imageheight":197,
-         "imagewidth":200,
-         "margin":0,
-         "name":"Signet_Biene_Schrift_rund-200x197",
-         "spacing":0,
-         "tilecount":36,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"docs\/Signet_Biene_Schrift_rund-200x197.tsx"
         }, 
         {
-         "columns":47,
          "firstgid":357,
-         "image":"..\/..\/Users\/Dominic\/Desktop\/mabs\/syngenta.JPG",
-         "imageheight":886,
-         "imagewidth":1522,
-         "margin":0,
-         "name":"syngenta",
-         "spacing":0,
-         "tilecount":1269,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"docs\/syngenta.tsx"
         }],
  "tilewidth":32,
  "type":"map",
